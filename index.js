@@ -11,6 +11,7 @@ let vetor4 = [];
 
         arry[7]===arry[9] ? vetor4 = [...vetor3] : vetor4 = [...vetor1]
 
+// Função de comparar
 function compare(vetor1, operando, vetor2){
     const result2= [];
   switch (operando) {
