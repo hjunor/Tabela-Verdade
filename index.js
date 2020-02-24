@@ -4,6 +4,7 @@ const vetor1 = [true, true, false, false];
 const vetor2 = [];
 let vetor3 = [];
 let vetor4 = [];
+
         //Estruturando as propabilidades
         arry[1]===arry[3] ? vetor2.push(vetor1) : vetor2.push(true, false, true, false)
 
