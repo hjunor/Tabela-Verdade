@@ -18,7 +18,7 @@ Tabela Verdade com JavaScript
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)'puro'
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  'puro'
 
 
 
