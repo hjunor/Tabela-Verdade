@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto é um redezenho do primeiro projto construido em <strong>C</strong> no primeiro período do curso de sistemas de informação.
+Esse projeto é um redezenho do primeiro projto construido em <strong>C</strong> no 1° período do curso de Sistemas de Informação.
 
 
 ## 🤔 Como contribuir
